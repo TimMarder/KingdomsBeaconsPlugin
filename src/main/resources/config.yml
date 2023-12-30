@@ -1,0 +1,5 @@
+kingdoms-beacon:
+  beacon-radius: 12
+  damage-multiplier: 2
+  required-votes: 1
+  disband-kingdoms: true

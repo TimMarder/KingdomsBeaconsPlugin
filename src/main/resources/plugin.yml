@@ -1,0 +1,9 @@
+name: KingdomsBeacon
+version: '${project.version}'
+main: me.tim.kingdomsbeacon.KingdomsBeacon
+api-version: '1.20'
+authors: [ Tim ]
+commands:
+  kingdom:
+    description: /kingdom Command
+    aliases: []
